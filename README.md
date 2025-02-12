@@ -1,8 +1,16 @@
 # BA820---College-Scorecard-
 Utilizing Unsupervised ML Techniques on College Scorecard Data to Evaluate Best Value for Money
 
-Project Motivation 
+Problem Statement
 
-Investing in higher education is a significant decision, yet assessing the true value of a college remains a challenge. The rising costs of tuition and the variability in post-graduate outcomes make it difficult for students and families to make informed choices. According to the National Center for Education Statistics, the average total cost of attending a postsecondary institution has steadily increased over the years.
-This project seeks to address this issue by analyzing college scorecard data using unsupervised machine learning techniques, such as K-means and hierarchical clustering. The goal is to identify patterns among institutions based on key factors, including cost, quality of student life, faculty experience, job placement rates, and post-graduate salaries. By uncovering hidden structures in the data, we aim to categorize colleges into meaningful groups that reflect their overall value for money.
-Our goal in this project is to provide data-driven insights to prospective students, policymakers, and educational institutions, enabling more informed decision-making on which undergraduate institutions will provide the best value based on their criteria. Identifying clusters of colleges with similar outcomes can help students find affordable and high-quality education options, bridging the gap between financial investment and career success.
+The continued rise in the cost of higher education and the uncertainty of post-graduate outcomes present significant adversity for students and their families trying to determine which college is best. Most traditional ranking systems rely on limited criteria, such as admission rates and program funding, without weighing factors like student satisfaction, return on investment, and job placement rates. This leaves prospective students and families with a limited picture of which higher education institutions truly provide the best value. 
+
+Our main objectives include:
+
+1. Identify clusters of colleges based on relevant factors
+2. Provide actionable insights for prospective students to find colleges that fit their goals
+3. Assess the value across higher education institutions to inform students and schools alike
+4. 
+In this project, the team aims to address this challenge by applying unsupervised learning methods like K-Means and Hierarchical Clustering, intending to uncover hidden patterns within the data to help students, policymakers, and institutions make more informed decisions. Unsupervised learning will also help reduce the complexity of the high-dimensional dataset, allowing the team to focus on the most informative variables needed to answer the highest-priority research questions. 
+By leveraging these machine learning methodologies, the team intends to bridge the gap between the financial investment in higher education and the subsequent career success of students, empowering them with in-depth insights to make informed decisions about their future. 
+
