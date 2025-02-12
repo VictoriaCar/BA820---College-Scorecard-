@@ -10,7 +10,7 @@ Our main objectives include:
 1. Identify clusters of colleges based on relevant factors
 2. Provide actionable insights for prospective students to find colleges that fit their goals
 3. Assess the value across higher education institutions to inform students and schools alike
-4. 
+
 In this project, the team aims to address this challenge by applying unsupervised learning methods like K-Means and Hierarchical Clustering, intending to uncover hidden patterns within the data to help students, policymakers, and institutions make more informed decisions. Unsupervised learning will also help reduce the complexity of the high-dimensional dataset, allowing the team to focus on the most informative variables needed to answer the highest-priority research questions. 
 By leveraging these machine learning methodologies, the team intends to bridge the gap between the financial investment in higher education and the subsequent career success of students, empowering them with in-depth insights to make informed decisions about their future. 
 
